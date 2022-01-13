@@ -1,8 +1,10 @@
-# StarkNet Cairo 101
+# StarkNet Cairo 101 #Stark Net Cairo 101
 Get started with Cairo with this simple tutorial. Complete the puzzles, get points and learn about StarkNet smart contracts!
 
-## Introduction
-### Disclaimer
+Bu basit öğretici ile StarkNet Ağını öğrenmeye başalyın . Bulmacalar çözerek punlar kazanın ve Stark Net Akıllı kontratlarını öğrenin.
+
+## Introduction / Tanıtım
+### Disclaimer / Sorumluluk Reddi
 Don't expect any kind of benefit from using this, other than learning a bunch of cool stuff about StarNet, the first general purpose validity rollup on the Ethereum Mainnnet. 
 
 StarkNet is still in Alpha. This means that develpment is ongoing, and the paint is not dry everywhere. Things will get better, and in the meanwhile, we make things work with a bit of duct tape here and there!
